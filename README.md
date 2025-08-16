@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Augusto Mendes Pereira  
 
-<!--
-**Felp64/Felp64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software**  
+💻 Experiência em **Análise e Desenvolvimento de Sistemas**  
+📌 Interesse em **Back-end, Bancos de Dados e Arquitetura de Software**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas  
+
+- **Linguagens:** Python, Java, JavaScript, SQL  
+- **Banco de Dados:** MySQL, PostgreSQL 
+- **Ferramentas:** Git, GitHub, VS Code  
+
+---
+
+## 📊 Estatísticas GitHub  
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felp64&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felp64&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Como me encontrar  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-augusto-mendes-pereira/)  
+- 🖥️ [GitHub](https://github.com/Felp64)  
+- 📧 **felipepepe64@gmail.com**  
+
+---
+
+✨ *Sempre aprendendo e aberto a novos desafios em tecnologia!*  
+
