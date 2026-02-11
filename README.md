@@ -16,9 +16,10 @@
 
 ## 📊 Estatísticas GitHub  
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felp64&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felp64&layout=compact&theme=tokyonight)  
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felp64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felp64&layout=compact&theme=tokyonight"/>
+</div>
 ---
 
 ## 📫 Como me encontrar  
